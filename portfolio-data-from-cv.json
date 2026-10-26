@@ -1,0 +1,843 @@
+{
+ "hero": {
+  "name": "Md Asaduzzaman Tohin",
+  "role": "Engineer, Researcher, Social Activist",
+  "lead": "Electronics and communication engineer with {experience} of work experience in IT project management, digital advertising operations and business data analytics. Two peer-reviewed IEEE papers and a Best Paper Award on an IoT-enabled smart robotic crutch for paralysed patients.",
+  "open": "Open to Master’s programmes, scholarships and research collaboration.",
+  "facts": [
+   {
+    "title": "Project Manager",
+    "text": "Brainwave Solutions Limited, Dhaka"
+   },
+   {
+    "title": "{experience_full}",
+    "text": "Total work experience"
+   },
+   {
+    "title": "Best Paper Award",
+    "text": "IEEE RAAICON 2019"
+   },
+   {
+    "title": "Two IEEE papers",
+    "text": "RAAICON 2019 and TENSYMP 2020"
+   },
+   {
+    "title": "Global Winner",
+    "text": "IEEE YESIST12 Maker Fair, 2021"
+   },
+   {
+    "title": "Founding member",
+    "text": "Leshiara Social Development Foundation"
+   }
+  ],
+  "footer": "© 2026 Md Asaduzzaman Tohin. Dhaka, Bangladesh."
+ },
+ "sections": [
+  {
+   "id": "experience",
+   "nav": "Experience",
+   "title": "Work experience",
+   "lede": "Select a role to see the company details and what I was responsible for.",
+   "visible": true
+  },
+  {
+   "id": "education",
+   "nav": "Education",
+   "title": "Education",
+   "lede": "Where I studied and the research it led to.",
+   "visible": true
+  },
+  {
+   "id": "certifications",
+   "nav": "Certifications",
+   "title": "Certifications and training",
+   "lede": "Competitions, online courses, volunteering and hands-on training.",
+   "visible": true
+  },
+  {
+   "id": "skills",
+   "nav": "Skills",
+   "title": "Skills",
+   "lede": "What I use day to day, grouped by the kind of work.",
+   "visible": true
+  },
+  {
+   "id": "research",
+   "nav": "Research",
+   "title": "Research and publications",
+   "lede": "Peer-reviewed work from my undergraduate research on IoT-enabled assistive and telehealth devices.",
+   "visible": true
+  },
+  {
+   "id": "interests",
+   "nav": "Interests",
+   "title": "Research interests",
+   "lede": "Select an interest to highlight the experience, papers and projects connected to it.",
+   "visible": true
+  },
+  {
+   "id": "projects",
+   "nav": "Projects",
+   "title": "Projects",
+   "lede": "The work I can point to and explain end to end.",
+   "visible": true
+  },
+  {
+   "id": "achievements",
+   "nav": "Achievements",
+   "title": "Achievements",
+   "lede": "Awards, papers and milestones.",
+   "visible": true
+  },
+  {
+   "id": "recommendations",
+   "nav": "Recommendations",
+   "title": "Recommendations",
+   "lede": "What supervisors, colleagues and collaborators say about working with me.",
+   "visible": true
+  },
+  {
+   "id": "activities",
+   "nav": "Activities",
+   "title": "Activities and leadership",
+   "lede": "Work outside the job and the lab.",
+   "visible": true
+  },
+  {
+   "id": "languages",
+   "nav": "Languages",
+   "title": "Languages",
+   "lede": "Languages I can work in.",
+   "visible": true
+  },
+  {
+   "id": "gallery",
+   "nav": "Gallery",
+   "title": "Gallery",
+   "lede": "Photos and videos from research, work and community projects. Photos in each frame slide on their own; use the arrows or swipe to browse, and select a photo to open it.",
+   "visible": true
+  },
+  {
+   "id": "references",
+   "nav": "References",
+   "title": "References",
+   "lede": "People you can contact for a reference.",
+   "visible": true
+  },
+  {
+   "id": "contact",
+   "nav": "Contact",
+   "title": "Get in touch",
+   "lede": "For admissions, scholarships, research collaboration or project work, write to me directly.",
+   "visible": true
+  }
+ ],
+ "categories": {
+  "experience": [
+   "Full-time",
+   "Part-time",
+   "Internship",
+   "Research"
+  ],
+  "certifications": [
+   "Competitions",
+   "Online courses",
+   "Volunteering",
+   "Training"
+  ],
+  "achievements": [
+   "Award",
+   "Competition",
+   "Publication",
+   "Leadership"
+  ],
+  "recommendations": [
+   "Professional",
+   "Academic"
+  ],
+  "activities": [
+   "Social Activities",
+   "Volunteering",
+   "Extra-curricular Activities"
+  ],
+  "gallery": [
+   "Research",
+   "Events",
+   "Work",
+   "Foundation",
+   "Videos"
+  ],
+  "references": [
+   "Professional",
+   "Academic"
+  ]
+ },
+ "settings": {
+  "recAutoPublish": true,
+  "design": "classic"
+ },
+ "custom": {},
+ "photo": "/assets/portrait.jpg",
+ "email": "tohin.ece@gmail.com",
+ "whatsapp": "https://wa.link/kepj48",
+ "cv": "[[Link to your CV (PDF)]]",
+ "profiles": [
+  {
+   "platform": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&user=TSyIlp4AAAAJ"
+  },
+  {
+   "platform": "orcid",
+   "label": "ORCID",
+   "url": "https://orcid.org/0000-0002-0362-0585"
+  },
+  {
+   "platform": "bohrium",
+   "label": "Bohrium",
+   "url": "https://www.bohrium.com/en/scholar/92094MT8/Md._Asaduzzaman_Tohin"
+  },
+  {
+   "platform": "linkedin",
+   "label": "LinkedIn",
+   "url": "https://www.linkedin.com/in/asadtohin/"
+  }
+ ],
+ "experienceFallback": {
+  "y": 7,
+  "m": 0,
+  "d": 0
+ },
+ "experience": [
+  {
+   "role": "Project Manager",
+   "org": "Brainwave Solutions Limited",
+   "type": "Full-time",
+   "start": "2026-01",
+   "end": "Present",
+   "website": "https://brainwaveltd.com/",
+   "email": "brainwavesolutionsltd@gmail.com",
+   "location": "Dhaka, Bangladesh",
+   "tags": [
+    "iot"
+   ],
+   "summary": "Project manager in the Information Technology Department.",
+   "points": [
+    "Lead cross-functional engineering teams delivering IT projects, with responsibility for process optimisation, hardware–software integration and technical quality standards.",
+    "Manage end-to-end project lifecycles, including scope definition, risk registers, resource planning and stakeholder reporting."
+   ]
+  },
+  {
+   "role": "Executive, Digital Advertising Operations",
+   "org": "SEBPO Bangladesh",
+   "type": "Full-time",
+   "start": "2021-06",
+   "end": "2025-12",
+   "website": "[[Company website]]",
+   "email": "",
+   "location": "Dhaka, Bangladesh",
+   "tags": [
+    "data"
+   ],
+   "summary": "Programmatic advertising operations at a US-owned IT and business process services company.",
+   "points": [
+    "Managed high-budget programmatic advertising campaigns on Google Ad Manager 360, The Trade Desk, DV360 and major social platforms, under real-time performance and delivery constraints.",
+    "Reviewed technical requirements, specifications and design documents, and carried out ongoing technical and quality evaluation and reporting.",
+    "Analysed large campaign datasets to optimise targeting and return on investment, turning raw performance data into decisions for client stakeholders."
+   ]
+  },
+  {
+   "role": "Business Data Analyst",
+   "org": "Winstar IT",
+   "type": "Full-time",
+   "start": "2019-02",
+   "end": "2021-06",
+   "website": "[[Company website]]",
+   "email": "",
+   "location": "Dhaka, Bangladesh",
+   "tags": [
+    "data"
+   ],
+   "summary": "Business data analysis for branding and administration.",
+   "points": [
+    "Analysed the strategic position of client organisations relative to their markets and stakeholders, supporting planning and operational decisions with data-backed insight.",
+    "Built dashboards and recurring reports in Power BI, Tableau and Excel, and applied statistical methods to find trends, patterns and performance anomalies."
+   ]
+  },
+  {
+   "role": "Intern",
+   "org": "Microsoft Corporation (Young Bangla Internship Programme)",
+   "type": "Internship",
+   "start": "2018-10",
+   "end": "2018-11",
+   "website": "",
+   "email": "",
+   "location": "Dhaka, Bangladesh",
+   "tags": [],
+   "noTotal": true,
+   "summary": "Internship in technology management and business strategy.",
+   "points": []
+  },
+  {
+   "role": "Founder and Lead",
+   "org": "Independent undergraduate research group",
+   "type": "Research",
+   "start": "2019",
+   "end": "2021",
+   "website": "",
+   "email": "",
+   "location": "Dhaka, Bangladesh",
+   "tags": [
+    "iot",
+    "security"
+   ],
+   "noTotal": true,
+   "summary": "Formed and led a four-member team developing an affordable instrumented robotic crutch for paralysed patients.",
+   "points": [
+    "Responsible for system architecture, microcontroller firmware, sensor instrumentation and manuscript preparation.",
+    "Designed the secure acquisition and transmission pipeline for real-time patient telemetry, addressing data-privacy constraints and network reliability in low-resource clinical settings.",
+    "The work led to two IEEE publications, an IEEE Best Paper Award, a feature by the Innovation Lab of the ICT Division (Government of Bangladesh), and invitations to international startup and commercialisation camps."
+   ]
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science (B.Sc.) in Electronics and Communication Engineering (ECE)",
+   "detail": "Dhaka, Bangladesh",
+   "passing": "2018",
+   "from": "2015-01",
+   "to": "2018-12",
+   "duration": "4 Years (January 2015 – December 2018)",
+   "credits": "147 (Completed)",
+   "note": "Undergraduate thesis: “Design and Implementation of a Smart Robotic Crutch with Scalable E-Care Architecture Using IoT”, awarded Best Thesis of the department.",
+   "european": "240 ECTS, EQF Level 6"
+  },
+  {
+   "degree": "Higher Secondary Certificate (HSC)",
+   "detail": "Science Group, Board of Intermediate and Secondary Education, Cumilla, Bangladesh",
+   "passing": "2013",
+   "from": "2011-07",
+   "to": "2013-06",
+   "duration": "2 Years (July 2011 – June 2013)",
+   "note": ""
+  },
+  {
+   "degree": "Secondary School Certificate (SSC)",
+   "detail": "Science Group, Board of Intermediate and Secondary Education, Cumilla, Bangladesh",
+   "passing": "2011",
+   "from": "2001-01",
+   "to": "2010-12",
+   "duration": "10 Years (January 2001 – December 2010)",
+   "note": ""
+  }
+ ],
+ "motion": {
+  "certDirection": "rtl",
+  "certSpeed": 40
+ },
+ "certifications": [
+  {
+   "cat": "Competitions",
+   "title": "[[Competition name]]",
+   "issuer": "[[Organiser]]",
+   "date": "[[YYYY-MM]]",
+   "detail": "[[Position or participation]]",
+   "link": "[[Certificate link]]",
+   "image": ""
+  },
+  {
+   "cat": "Online courses",
+   "title": "[[Course name]]",
+   "issuer": "[[Platform, such as Coursera or edX]]",
+   "date": "[[YYYY-MM]]",
+   "detail": "[[Hours or grade]]",
+   "link": "[[Verification link]]",
+   "image": ""
+  },
+  {
+   "cat": "Volunteering",
+   "title": "[[Volunteering certificate title]]",
+   "issuer": "[[Organisation]]",
+   "date": "[[YYYY-MM]]",
+   "detail": "[[Role or hours]]",
+   "link": "[[Link]]",
+   "image": ""
+  },
+  {
+   "cat": "Training",
+   "title": "[[Training title]]",
+   "issuer": "[[Institute]]",
+   "date": "[[YYYY-MM]]",
+   "detail": "[[3 months or 6 months]]",
+   "link": "[[Link]]",
+   "image": ""
+  }
+ ],
+ "skills": [
+  {
+   "group": "Research and management",
+   "items": [
+    "Research article and funding proposal writing",
+    "Technical documentation",
+    "Project planning",
+    "Cross-functional team leadership",
+    "Risk and quality management"
+   ]
+  },
+  {
+   "group": "AI tools and prompt engineering",
+   "items": [
+    "Prompt engineering and AI workflow design",
+    "Claude and ChatGPT",
+    "AI-assisted literature review and research summaries",
+    "AI-assisted data analysis and technical writing",
+    "Checking and fact-verifying AI output",
+    "[[Add the other AI research tools you use, one per line]]"
+   ]
+  },
+  {
+   "group": "Programming and analysis",
+   "items": [
+    "C",
+    "C++",
+    "Python",
+    "SQL",
+    "MATLAB / Simulink"
+   ]
+  },
+  {
+   "group": "Hardware and simulation",
+   "items": [
+    "Arduino IDE",
+    "AVR Studio",
+    "MPLAB",
+    "Proteus",
+    "NI Multisim",
+    "Fritzing",
+    "Microcontroller programming",
+    "Sensor instrumentation",
+    "IoT prototyping"
+   ]
+  },
+  {
+   "group": "Data, tools and platforms",
+   "items": [
+    "Power BI",
+    "Tableau",
+    "Looker",
+    "Advanced Excel",
+    "Git",
+    "XAMPP",
+    "Microsoft Office",
+    "Google Ad Manager 360",
+    "The Trade Desk",
+    "DV360"
+   ]
+  },
+  {
+   "group": "Leadership and outreach",
+   "items": [
+    "Media and publicity",
+    "Organisational planning",
+    "Documentation and policy drafting",
+    "Public communication and outreach",
+    "Programme planning"
+   ]
+  }
+ ],
+ "pubs": [
+  {
+   "venue": "2020 IEEE Region 10 Symposium (TENSYMP), Dhaka, Bangladesh, pp. 242–245",
+   "year": 2020,
+   "badge": "",
+   "tags": [
+    "iot"
+   ],
+   "title": "Implementation of an Instrumented Crutch with Scalable E-Care Architecture Using IoT",
+   "authors": "M. A. Tohin, P. P. Sarkar, M. A. Khaled and M. S. Rahman",
+   "abstract": "From my undergraduate research on a smart robotic crutch for paralysed patients: an instrumented crutch with a scalable, IoT-based e-care architecture.",
+   "doi": "https://doi.org/10.1109/TENSYMP50017.2020.9230694",
+   "url2": "https://www.researchgate.net/publication/347772383_Implementation_of_an_Instrumented_Crutch_with_Scalable_E-Care_Architecture_Using_IoT",
+   "label2": "ResearchGate"
+  },
+  {
+   "venue": "2019 IEEE International Conference on Robotics, Automation, Artificial-Intelligence and Internet-of-Things (RAAICON), Dhaka, Bangladesh, pp. 112–115",
+   "year": 2019,
+   "badge": "Best Paper Award",
+   "tags": [
+    "iot"
+   ],
+   "title": "Design Process of an Affordable Smart Robotic Crutch for Paralyzed Patients",
+   "authors": "M. A. Tohin, P. P. Sarkar, M. A. Khaled and M. R. Islam",
+   "abstract": "The design process of a low-cost smart robotic crutch for paralysed patients, from my undergraduate research. It received the Best Paper Award at the conference.",
+   "doi": "https://doi.org/10.1109/RAAICON48939.2019.6260845"
+  }
+ ],
+ "interests": [
+  {
+   "id": "iot",
+   "title": "IoT architectures for assistive, biomedical and telehealth systems",
+   "text": "Instrumentation and care pathways for devices such as the smart robotic crutch."
+  },
+  {
+   "id": "security",
+   "title": "Secure data acquisition, transmission and privacy in cyber-physical systems",
+   "text": "Keeping sensor and patient data safe on its way from the device to the cloud."
+  },
+  {
+   "id": "decision",
+   "title": "Quantitative decision-making, operations research and systemic risk modelling",
+   "text": "Using models and data to make decisions under uncertainty."
+  },
+  {
+   "id": "data",
+   "title": "Big data analytics for engineering and process optimisation",
+   "text": "Turning large operational datasets into decisions."
+  }
+ ],
+ "projects": [
+  {
+   "flagship": true,
+   "title": "Smart robotic crutch for paralysed patients",
+   "status": "Two IEEE papers, IEEE Best Paper Award, Best Thesis of the department",
+   "tags": [
+    "iot",
+    "security"
+   ],
+   "text": "An affordable instrumented robotic crutch with a scalable IoT e-care architecture. I founded and led the four-member undergraduate team and was responsible for the system architecture, microcontroller firmware, sensor instrumentation and manuscript preparation.",
+   "points": [
+    "Designed the secure acquisition and transmission pipeline for real-time patient telemetry, addressing data-privacy constraints and network reliability in low-resource clinical settings.",
+    "Featured by the Innovation Lab of the ICT Division (Government of Bangladesh) and invited to international startup and commercialisation camps."
+   ]
+  },
+  {
+   "title": "IT project delivery",
+   "status": "Brainwave Solutions Limited, 2026 to present",
+   "tags": [
+    "iot"
+   ],
+   "text": "Leading cross-functional teams that deliver IT projects: process optimisation, hardware–software integration and technical quality standards, with scope, risk and stakeholder reporting managed across the whole project lifecycle.",
+   "points": []
+  },
+  {
+   "title": "Programmatic advertising analytics",
+   "status": "SEBPO Bangladesh, 2021 to 2025",
+   "tags": [
+    "data"
+   ],
+   "text": "Analysed large campaign datasets from Google Ad Manager 360, The Trade Desk and DV360 to optimise targeting and return on investment, and turned raw performance data into decisions for client stakeholders.",
+   "points": []
+  },
+  {
+   "title": "Business dashboards and reporting",
+   "status": "Winstar IT, 2019 to 2021",
+   "tags": [
+    "data"
+   ],
+   "text": "Built dashboards and recurring reports in Power BI, Tableau and Excel, and applied statistical methods to find trends, patterns and performance anomalies for client organisations.",
+   "points": []
+  },
+  {
+   "title": "Leshiara Foundation: documents and operating plan",
+   "status": "Ongoing, from 2026",
+   "tags": [],
+   "text": "Prepared the organisational documents of the Leshiara Social Development Foundation and am planning how it will function day to day.",
+   "points": [
+    "[[List the documents you prepared, such as constitution, policies, work plan or budget]]",
+    "[[What the operating plan covers]]"
+   ]
+  }
+ ],
+ "achievements": [
+  {
+   "year": "2026",
+   "cat": "Leadership",
+   "title": "Founding member, Leshiara Social Development Foundation",
+   "text": "Helped start a non-political community organisation on 15 August 2026, prepared its organisational documents and am planning how it will run."
+  },
+  {
+   "year": "2021",
+   "cat": "Competition",
+   "title": "Global Winner, IEEE YESIST12 Maker Fair",
+   "text": "Awarded by IEEE."
+  },
+  {
+   "year": "2021",
+   "cat": "Competition",
+   "title": "1st Runner-up, IEEE YESIST12 Innovation Challenge (Pilot Round)",
+   "text": "IEEE Bangladesh Section."
+  },
+  {
+   "year": "2020",
+   "cat": "Publication",
+   "title": "Paper at IEEE TENSYMP 2020",
+   "text": "A second peer-reviewed conference paper from the robotic crutch research."
+  },
+  {
+   "year": "2020",
+   "cat": "Competition",
+   "title": "Winner, Solve-Pitch-Win Challenge on One Page Business Model",
+   "text": "EMK Center, Dhaka."
+  },
+  {
+   "year": "2019",
+   "cat": "Award",
+   "title": "Best Paper Award, IEEE RAAICON 2019",
+   "text": "Awarded for research on a smart robotic crutch for paralysed patients, developed during my undergraduate studies."
+  },
+  {
+   "year": "2019",
+   "cat": "Competition",
+   "title": "1st Runner-up, IEEE YESIST12 Innovation Challenge",
+   "text": "IEEE Bangladesh Section."
+  },
+  {
+   "year": "2019",
+   "cat": "Competition",
+   "title": "Champion, Project Showcasing, JUSC National Science Festival",
+   "text": "Jahangirnagar University."
+  },
+  {
+   "year": "2019",
+   "cat": "Award",
+   "title": "Ambassador Award for Excellent Encouragement",
+   "text": "International Astronomy and Astrophysics Competition."
+  },
+  {
+   "year": "2018",
+   "cat": "Competition",
+   "title": "Best Hardware Hack, MLH Local Hack Day",
+   "text": "Major League Hacking, GitHub and Microsoft."
+  },
+  {
+   "year": "2018–2021",
+   "cat": "Competition",
+   "title": "Further placings and participation",
+   "text": "2nd Runner-up, IEEE YESIST12 Maker Fair (Pilot Round); 1st Runner-up, BAIUST Robo Fest; 2nd Runner-up, ULAB EEE Fest; 1st Runner-up, EWU EEE Day Project Show; 1st Runner-up, International Telco Warfare (EWU); 2nd Runner-up, Inter-University Idea Contest (IEEE JU Student Branch). Participant in 20+ national and international technology and business competitions."
+  }
+ ],
+ "recommendations": [
+  {
+   "type": "Professional",
+   "quote": "[[Paste the recommendation here: two to four sentences on your work, results and character.]]",
+   "name": "[[Recommender name]]",
+   "position": "[[Position]]",
+   "org": "[[Organisation]]",
+   "relation": "[[How you worked together]]",
+   "email": "[[Recommender email]]"
+  },
+  {
+   "type": "Professional",
+   "quote": "[[Paste a second recommendation here.]]",
+   "name": "[[Recommender name]]",
+   "position": "[[Position]]",
+   "org": "[[Organisation]]",
+   "relation": "[[How you worked together]]",
+   "email": "[[Recommender email]]"
+  },
+  {
+   "type": "Academic",
+   "quote": "[[Paste a recommendation from a professor or supervisor here.]]",
+   "name": "[[Professor or supervisor name]]",
+   "position": "[[Designation]]",
+   "org": "[[University and department]]",
+   "relation": "[[Supervisor, teacher or research collaborator]]",
+   "email": "[[Recommender email]]"
+  }
+ ],
+ "activities": [
+  {
+   "cat": "Social Activities",
+   "title": "Leshiara Social Development Foundation",
+   "role": "Founding member",
+   "when": "Founded 15 August 2026",
+   "text": "A non-political community organisation with 20 founding members and 8 advisers, working in five areas.",
+   "points": [
+    "Helped found the organisation.",
+    "Prepared the Foundation’s organisational documents.",
+    "Planning how the Foundation will run day to day, so that it functions properly as it grows."
+   ],
+   "areas": [
+    "Education",
+    "Youth development",
+    "Community development",
+    "Anti-narcotics awareness",
+    "Humanitarian relief"
+   ]
+  },
+  {
+   "cat": "Volunteering",
+   "title": "Media and Publicity Secretary",
+   "role": "Leshiara Social Development Foundation",
+   "when": "Ongoing",
+   "text": "Volunteer role leading the Foundation’s media and publicity.",
+   "points": [
+    "[[Add what you do: social media pages, posters, press releases, event coverage]]"
+   ],
+   "areas": []
+  },
+  {
+   "cat": "Extra-curricular Activities",
+   "title": "Country Ambassador, International Astronomy and Astrophysics Competition",
+   "role": "Country Ambassador",
+   "from": "2019-04",
+   "to": "",
+   "ongoing": true,
+   "when": "Since April 2019",
+   "text": "Represent Bangladesh in an international STEM competition.",
+   "points": [
+    "Promote participation among school and university students nationwide."
+   ],
+   "areas": []
+  },
+  {
+   "cat": "Extra-curricular Activities",
+   "title": "General Secretary, IEEE ISTT Student Branch",
+   "role": "General Secretary",
+   "from": "2017-11",
+   "to": "2018-06",
+   "ongoing": false,
+   "when": "November 2017 to June 2018",
+   "text": "Led the branch executive team.",
+   "points": [
+    "Organised events, workshops and inter-university competitions.",
+    "Previously General Secretary (Technical), ISTT Innovation Hub Robotics Club (2018 to 2019)."
+   ],
+   "areas": []
+  },
+  {
+   "cat": "Extra-curricular Activities",
+   "title": "Other IEEE and ambassador roles",
+   "role": "Member and ambassador",
+   "from": "",
+   "to": "",
+   "ongoing": false,
+   "when": "2019 to 2021",
+   "text": "Further roles alongside my studies and work.",
+   "points": [
+    "Executive Committee Member, IEEE Computer Society Bangladesh Chapter (2020)",
+    "Brand Ambassador, IEEE (2019 to 2021)",
+    "Country Ambassador, International Youth Math Challenge (2019 to 2020)"
+   ],
+   "areas": []
+  }
+ ],
+ "languages": [
+  {
+   "lang": "Bangla",
+   "level": "Native"
+  },
+  {
+   "lang": "English",
+   "level": "Professional working proficiency (CEFR B2/C1). Bachelor’s degree completed in English medium."
+  }
+ ],
+ "gallery": [
+  {
+   "cat": "Research",
+   "title": "[[Robotic crutch prototype]]",
+   "photos": [
+    {
+     "caption": "[[Front view]]"
+    },
+    {
+     "caption": "[[Side view]]"
+    },
+    {
+     "caption": "[[Testing with the sensors]]"
+    }
+   ]
+  },
+  {
+   "cat": "Events",
+   "title": "[[Best Paper Award ceremony]]",
+   "photos": [
+    {
+     "caption": "[[Receiving the award]]"
+    },
+    {
+     "caption": "[[With the committee]]"
+    },
+    {
+     "caption": "[[Presenting the paper]]"
+    }
+   ]
+  },
+  {
+   "cat": "Work",
+   "title": "[[Project site or team]]",
+   "photos": [
+    {
+     "caption": "[[On site]]"
+    },
+    {
+     "caption": "[[Team meeting]]"
+    }
+   ]
+  },
+  {
+   "cat": "Foundation",
+   "title": "[[Leshiara Foundation activity]]",
+   "photos": [
+    {
+     "caption": "[[Community event]]"
+    },
+    {
+     "caption": "[[Volunteers]]"
+    },
+    {
+     "caption": "[[Distribution day]]"
+    }
+   ]
+  },
+  {
+   "cat": "Videos",
+   "type": "video",
+   "title": "[[Project videos]]",
+   "videos": [
+    {
+     "url": "[[YouTube link]]",
+     "caption": "[[First video title]]"
+    },
+    {
+     "url": "[[YouTube link]]",
+     "caption": "[[Second video title]]"
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "type": "Academic",
+   "name": "Prof. Md. Samin Rahman",
+   "position": "Professor, Department of Electrical and Electronic Engineering",
+   "org": "Aviation and Aerospace University (AAU)",
+   "location": "Bangladesh",
+   "email": "samin@aaub.edu.bd",
+   "profile": "",
+   "orgWebsite": ""
+  },
+  {
+   "type": "Academic",
+   "name": "Shoma Khanom",
+   "position": "Assistant Professor and Head, Department of Electronics and Communication Engineering",
+   "org": "ISTT, National University",
+   "location": "Bangladesh",
+   "email": "shoma_ece@istt.edu.bd",
+   "profile": "",
+   "orgWebsite": ""
+  },
+  {
+   "type": "Professional",
+   "name": "Mazharul Islam",
+   "position": "Program Manager, Digital Advertising Operations",
+   "org": "SEBPO",
+   "location": "Bangladesh",
+   "email": "mazharul.islam@sebpo.com",
+   "profile": "",
+   "orgWebsite": ""
+  }
+ ],
+ "whatsappQr": "/assets/wa-qr.png",
+ "profilesOther": []
+}
